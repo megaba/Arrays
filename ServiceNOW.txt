@@ -1,0 +1,33 @@
+Basic DSA
+
+SPRING ??
+
+Design me kya ??
+
+Web ??
+
+Tree, linked list, heap, array, string, graph, binary tree
+
+Stack
+
+Bfs Dfs
+
+Find shortest / no. of path
+
+Min steps to convert a word into another word in a dictionary
+
+Design splitwise
+
+Airport has 1 runway : whichever flights comes takes 5 mins to depart
+many flights are arriving , how will you decide how many requests to serve
+
+In n numbers. find 1st repeated, 2nd reepeated, nth repeated, last repeated
+
+Find LCA of 2 nodes {Lowest Common Ancestor}
+LCA of N nodes
+
+
+One Array has 0,1,2 sort it. now it has 3,4,5 also.. how will u do sorting
+
+
+Convert N small cubes with their ends broken into a big cube
